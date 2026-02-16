@@ -34,7 +34,7 @@ This project was built during the **MCP Mega Workshop by NxtWave**, where I lear
 ![LinkedIn Output](Screenshots/linkedin_final_post.png.png)<br>
 
 ### AI Agent Execution<br>
-![Agent Run](agent_execution.png)<br>
+![Agent Run](Screenshots/agent_execution..png)<br>
 
 ## 🎯 Learning Outcomes<br>
 
