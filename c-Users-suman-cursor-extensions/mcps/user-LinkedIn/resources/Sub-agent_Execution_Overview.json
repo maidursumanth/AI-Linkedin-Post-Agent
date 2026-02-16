@@ -1,6 +1,0 @@
-{
-  "uri": "resource://pipedream/sub-agent/overview",
-  "name": "Sub-agent Execution Overview",
-  "description": "Explains how natural language instructions are delegated to Pipedream's server-side sub-agents.",
-  "mimeType": "text/markdown"
-}
