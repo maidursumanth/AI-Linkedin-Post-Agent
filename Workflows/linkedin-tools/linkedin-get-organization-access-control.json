@@ -1,0 +1,18 @@
+{
+  "name": "linkedin-get-organization-access-control",
+  "description": "Gets a selected organization's access control information. [See the documentation](https://learn.microsoft.com/en-us/linkedin/marketing/community-management/organizations/organization-access-control-by-role?view=li-lms-2025-01&tabs=http#find-organization-access-control)",
+  "arguments": {
+    "type": "object",
+    "properties": {
+      "instruction": {
+        "type": "string",
+        "description": "Very detailed instructions describing the action to be taken. Include any information that might be useful."
+      }
+    },
+    "required": [
+      "instruction"
+    ],
+    "additionalProperties": false,
+    "$schema": "http://json-schema.org/draft-07/schema#"
+  }
+}

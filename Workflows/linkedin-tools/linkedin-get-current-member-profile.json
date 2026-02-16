@@ -1,0 +1,18 @@
+{
+  "name": "linkedin-get-current-member-profile",
+  "description": "Gets the profile of the current authenticated member. [See the docs here](https://docs.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api#retrieve-current-members-profile)",
+  "arguments": {
+    "type": "object",
+    "properties": {
+      "instruction": {
+        "type": "string",
+        "description": "Very detailed instructions describing the action to be taken. Include any information that might be useful."
+      }
+    },
+    "required": [
+      "instruction"
+    ],
+    "additionalProperties": false,
+    "$schema": "http://json-schema.org/draft-07/schema#"
+  }
+}
