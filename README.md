@@ -31,7 +31,7 @@ This project was built during the **MCP Mega Workshop by NxtWave**, where I lear
 ## 📸 Project Output<br>
 
 ### Final LinkedIn Post (Auto-Published)<br>
-![LinkedIn Output](linkedin_final_post.png)<br>
+![LinkedIn Output](linkedin_final_post.png.png)<br>
 
 ### AI Agent Execution<br>
 ![Agent Run](agent_execution.png)<br>
