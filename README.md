@@ -28,31 +28,29 @@ This project was built during the **MCP Mega Workshop by NxtWave**, where I lear
 4. MCP workflow triggers LinkedIn posting  <br>
 5. Post is automatically published  <br>
 <br>
-## 📸 Demo & Output<br>
+## 📸 Project Output<br>
 
-![Post Screenshot]()
+### Final LinkedIn Post (Auto-Published)<br>
+![LinkedIn Output](Linkedin_Post.png)<br>
 
----
+### AI Agent Execution<br>
+![Agent Run](Cursor_Output.png)<br>
 
-## 🎯 Learning Outcomes
+## 🎯 Learning Outcomes<br>
 
-- Built real-world AI workflows  
-- Learned AI → tool communication  
-- Designed automation pipelines  
-- Integrated multiple APIs  
+- Built real-world AI workflows  <br>
+- Learned AI → tool communication <br> 
+- Designed automation pipelines  <br>
+- Integrated multiple APIs  <br>
 
----
+## 📌 Future Improvements<br>
 
-## 📌 Future Improvements
+- Multi-platform posting (Twitter, Instagram)<br>
+- Scheduling system<br>
+- Analytics dashboard<br>
+- Post performance tracking<br>
 
-- Multi-platform posting (Twitter, Instagram)
-- Scheduling system
-- Analytics dashboard
-- Post performance tracking
+## 🧑‍💻 Author<br>
 
----
-
-## 🧑‍💻 Author
-
-**Sumanth**  
-Frontend + Automation + AI Workflow Developer  
+**Sumanth**  <br>
+Frontend + Automation + AI Workflow Developer  <br>
