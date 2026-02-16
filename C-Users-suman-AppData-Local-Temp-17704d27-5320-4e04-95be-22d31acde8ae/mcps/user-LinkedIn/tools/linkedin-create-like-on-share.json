@@ -1,0 +1,18 @@
+{
+  "name": "linkedin-create-like-on-share",
+  "description": "Creates a like on a share. [See the docs here](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/shares/network-update-social-actions#create-a-like-on-a-share)",
+  "arguments": {
+    "type": "object",
+    "properties": {
+      "instruction": {
+        "type": "string",
+        "description": "Very detailed instructions describing the action to be taken. Include any information that might be useful."
+      }
+    },
+    "required": [
+      "instruction"
+    ],
+    "additionalProperties": false,
+    "$schema": "http://json-schema.org/draft-07/schema#"
+  }
+}
